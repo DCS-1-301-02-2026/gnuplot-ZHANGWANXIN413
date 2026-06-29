@@ -1,4 +1,5 @@
 # Gnuplot
+# this line is added for test
 
 $y=sin(x)，tan^{-1}(x)$ のグラフを描く
 
